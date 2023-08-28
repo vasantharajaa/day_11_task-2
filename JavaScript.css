@@ -1,0 +1,32 @@
+.whole{
+    
+    display:flex;
+    Width:80%;
+    margin-left:20px;
+    
+    
+}
+.left{
+    Width:400px;
+    Height:auto;
+    margin-right:10px;
+}
+.content{
+    padding-left: 100px;
+    margin-top:0px;
+    font-size: 14pt;
+    
+    
+}
+p{
+    padding-left:50px;
+    margin-top:0px;
+    font-size: 14pt;
+}
+
+ul>li{
+   
+    margin-bottom: 6px;
+    
+    
+}
